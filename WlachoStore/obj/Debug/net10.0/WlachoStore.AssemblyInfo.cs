@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WlachoStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e82e214a9f3c91367cca6c6e81f143d784434e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WlachoStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WlachoStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
