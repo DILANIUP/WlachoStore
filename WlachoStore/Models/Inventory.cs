@@ -1,9 +1,11 @@
+using System.ComponentModel.DataAnnotations;
 using WlachoStore.Enums;
 
 namespace WlachoStore.Models
 {
     public class Inventory
     {
+        [Key]
         public int MovementId { get; set; }
         public int Quantity { get; set; }
         public InventoryType Type { get; set; }
